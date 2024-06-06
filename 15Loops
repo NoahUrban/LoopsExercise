@@ -8,67 +8,67 @@ for (int = 0; int < 5; i++)
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
 
-for ()
+for (int = 0; int < 5; i++)
 {
     Console.WriteLine($"{i}");
 }
